@@ -31,8 +31,9 @@ const Home = () => {
       image: item.image,
       link: `/menu/${item.id}`,
     }));
+    console.log("Featured menu items:", featuredMenuItems); // ✅ Should be 3 items
 
-  // Featured rooms
+    // Featured rooms
   const featuredRooms = roomsData
     .filter(room => room.featured)
     .slice(0, 3)
