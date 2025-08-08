@@ -24,9 +24,9 @@ const Footer = () => {
             <Link to="/" className="inline-block mb-4">
               <div className="flex items-center gap-2">
                 <span className="text-2xl font-serif font-bold bg-gradient-to-r from-amber-600 to-red-600 bg-clip-text text-transparent">
-                  Luxe
+                  Royal
                 </span>
-                <span className="text-2xl font-serif font-light">Haven</span>
+                <span className="text-2xl font-serif font-light">Ashish</span>
               </div>
             </Link>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
@@ -90,7 +90,7 @@ const Footer = () => {
               </li>
               <li className="flex gap-3 text-gray-600 dark:text-gray-400">
                 <Mail className="h-5 w-5 text-amber-600 dark:text-amber-400 shrink-0" />
-                <span>info@luxehaven.com</span>
+                <span>info@royalAshish.com</span>
               </li>
             </ul>
           </div>
@@ -119,7 +119,7 @@ const Footer = () => {
         <div className="border-t border-gray-200 dark:border-gray-800 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-600 dark:text-gray-400 text-sm">
-              © {currentYear} Luxe Haven Hotel & Restaurant. All rights reserved.
+              © {currentYear} Royal Ashish Hotel & Restaurant. All rights reserved.
             </p>
             <div className="flex gap-4">
               <Link

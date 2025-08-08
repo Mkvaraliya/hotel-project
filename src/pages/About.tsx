@@ -22,7 +22,7 @@ const About = () => {
       <div className="container mx-auto px-4">
         {/* Page Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-serif font-bold mb-4">About Luxe Haven</h1>
+          <h1 className="text-4xl font-serif font-bold mb-4">About Royal Ashish</h1>
           <p className="text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
             Experience the perfect blend of luxury, comfort, and exceptional service.
           </p>
@@ -33,14 +33,14 @@ const About = () => {
           <div className="order-2 md:order-1">
             <h2 className="text-2xl font-serif font-bold mb-4">Our Story</h2>
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-              Founded in 2010, Luxe Haven began with a vision to create an unparalleled hospitality experience that combines 
+              Founded in 2010, Royal Ashish began with a vision to create an unparalleled hospitality experience that combines 
               elegant accommodations with exceptional dining. What started as a boutique hotel with just 10 rooms has 
               now expanded into a renowned destination for travelers and food enthusiasts alike.
             </p>
             <p className="text-gray-700 dark:text-gray-300">
               Over the years, we've maintained our commitment to personalized service while growing our offerings 
               to include our award-winning restaurant, state-of-the-art event spaces, and expanded luxury accommodations.
-              Today, Luxe Haven stands as a testament to refined hospitality, where every detail is thoughtfully considered 
+              Today, Royal Ashish stands as a testament to refined hospitality, where every detail is thoughtfully considered 
               to create memorable experiences for our guests.
             </p>
           </div>
@@ -61,7 +61,7 @@ const About = () => {
             personalized service and attention to every detail."
           </p>
           <p className="text-gray-600 dark:text-gray-400">
-            At Luxe Haven, we're dedicated to creating an environment where guests feel both pampered and at home.
+            At Royal Ashish, we're dedicated to creating an environment where guests feel both pampered and at home.
             Our approach combines traditional hospitality values with contemporary luxury to deliver experiences that 
             exceed expectations.
           </p>
@@ -75,7 +75,7 @@ const About = () => {
               { 
                 year: "2010", 
                 title: "Grand Opening", 
-                description: "Luxe Haven opens its doors with 10 boutique rooms and a small café." 
+                description: "Royal Ashish opens its doors with 10 boutique rooms and a small café." 
               },
               { 
                 year: "2013", 
@@ -169,7 +169,7 @@ const About = () => {
           <div>
             <h2 className="text-2xl font-serif font-bold mb-4">Our Commitment to Sustainability</h2>
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-              At Luxe Haven, we believe that luxury and responsibility go hand in hand. Our sustainability 
+              At Royal Ashish, we believe that luxury and responsibility go hand in hand. Our sustainability 
               initiatives reflect our dedication to preserving the beauty of our environment while providing 
               exceptional experiences for our guests.
             </p>
@@ -189,9 +189,9 @@ const About = () => {
 
         {/* CTA Section */}
         <div className="text-center bg-amber-50 dark:bg-amber-900/20 rounded-lg p-8">
-          <h2 className="text-2xl font-serif font-bold mb-4">Experience Luxe Haven</h2>
+          <h2 className="text-2xl font-serif font-bold mb-4">Experience Royal Ashish</h2>
           <p className="text-gray-700 dark:text-gray-300 max-w-2xl mx-auto mb-6">
-            We invite you to discover the perfect blend of luxury, comfort, and exceptional service that defines the Luxe Haven experience.
+            We invite you to discover the perfect blend of luxury, comfort, and exceptional service that defines the Royal Ashish experience.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Button asChild>

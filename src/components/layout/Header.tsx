@@ -58,9 +58,9 @@ const Header = () => {
             transition={{ duration: 0.5 }}
           >
             <span className="text-2xl font-serif font-bold bg-gradient-to-r from-amber-600 to-red-600 bg-clip-text text-transparent">
-              Luxe
+              Royal
             </span>
-            <span className="text-2xl font-serif font-light">Haven</span>
+            <span className="text-2xl font-serif font-light">Ashish</span>
           </motion.div>
         </Link>
 

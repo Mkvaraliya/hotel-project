@@ -79,9 +79,9 @@ const Home = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            <h2 className="text-3xl font-serif font-bold mb-6">Welcome to Luxe Haven</h2>
+            <h2 className="text-3xl font-serif font-bold mb-6">Welcome to Royal Ashish</h2>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              Nestled in the heart of the city, Luxe Haven offers a perfect blend of sophisticated luxury and 
+              Nestled in the heart of the city, Royal Ashish offers a perfect blend of sophisticated luxury and 
               heartfelt hospitality. Our award-winning restaurant and sumptuous accommodations create an 
               unforgettable experience for all our guests.
             </p>
@@ -291,7 +291,7 @@ const Home = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              Ready to Experience Luxe Haven?
+              Ready to Experience Royal Ashish?
             </motion.h2>
             <motion.p 
               className="mb-8 opacity-90"
