@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "slug": "deluxe-king",
+    "name": "Deluxe King Room",
+    "description": "Spacious room featuring a king-size bed, elegant furnishings, and a private balcony with stunning views of the city skyline or garden.",
+    "price": 199.99,
+    "maxGuests": 2,
+    "bedType": "King",
+    "size": "40 sq m",
+    "images": [
+      "/images/DeluxeKingRoom.jpg",
+      "/images/DeluxeKingRoom.jpg",
+      "/images/DeluxeKingRoom.jpg"
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Flat-screen TV",
+      "Mini-bar",
+      "Coffee machine",
+      "In-room safe",
+      "Private bathroom with rainfall shower",
+      "Luxury toiletries",
+      "Bathrobe and slippers",
+      "Room service"
+    ],
+    "availability": true,
+    "featured": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "slug": "junior-suite",
+    "name": "Junior Suite",
+    "description": "Luxurious suite with separate living area, king-size bed, and premium amenities for the discerning traveler seeking comfort and style.",
+    "price": 299.99,
+    "maxGuests": 3,
+    "bedType": "King + Sofa Bed",
+    "size": "55 sq m",
+    "images": [
+      "/images/JuniorSuite.jpg",
+      "/images/JuniorSuite.jpg",
+      "/images/JuniorSuite.jpg"
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "55-inch Smart TV",
+      "Fully stocked mini-bar",
+      "Nespresso coffee machine",
+      "In-room safe",
+      "Luxury bathroom with bathtub and separate rainfall shower",
+      "Premium toiletries",
+      "Bathrobe and slippers",
+      "24-hour room service",
+      "Lounge access",
+      "Welcome champagne"
+    ],
+    "availability": true,
+    "featured": true,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "slug": "executive-suite",
+    "name": "Executive Suite",
+    "description": "Premium corner suite with panoramic city views, separate bedroom and living room, luxury bathroom with soaking tub, and exclusive executive lounge access.",
+    "price": 399.99,
+    "maxGuests": 4,
+    "bedType": "King + Sofa Bed",
+    "size": "75 sq m",
+    "images": [
+      "/images/ExecutiveSuite.jpg",
+      "/images/ExecutiveSuite.jpg",
+      "/images/ExecutiveSuite.jpg"
+    ],
+    "amenities": [
+      "Free high-speed Wi-Fi",
+      "Smart climate control",
+      "65-inch OLED Smart TV",
+      "Premium mini-bar",
+      "Nespresso coffee machine",
+      "Digital in-room tablet",
+      "In-room safe",
+      "Luxury bathroom with jacuzzi tub and rainfall shower",
+      "Premium toiletries",
+      "Bathrobe and slippers",
+      "24-hour private butler service",
+      "Executive lounge access",
+      "Complimentary breakfast",
+      "Evening cocktails and canapés",
+      "Welcome champagne and fruit basket"
+    ],
+    "availability": true,
+    "featured": true,
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "slug": "twin-room",
+    "name": "Superior Twin Room",
+    "description": "Comfortable room with two twin beds, modern amenities, and a cozy atmosphere, perfect for friends or business travelers.",
+    "price": 149.99,
+    "maxGuests": 2,
+    "bedType": "Two Twin Beds",
+    "size": "35 sq m",
+    "images": [
+      "/images/CozyTwinRoom.jpg",
+      "/images/TwinRoom.jpg"
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Flat-screen TV",
+      "Mini-fridge",
+      "Coffee and tea making facilities",
+      "In-room safe",
+      "Private bathroom with shower",
+      "Basic toiletries",
+      "Room service"
+    ],
+    "availability": true,
+    "featured": false,
+    "rating": 4.5
+  }
+]

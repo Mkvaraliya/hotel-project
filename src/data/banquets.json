@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "slug": "grand-ballroom",
+    "name": "Grand Ballroom",
+    "description": "Our signature venue featuring crystal chandeliers, high ceilings, and a spacious dance floor. Perfect for weddings, galas, and large corporate events.",
+    "capacity": {
+      "seated": 300,
+      "standing": 500,
+      "theater": 400
+    },
+    "size": "500 sq m",
+    "pricePerHour": 1500,
+    "minimumHours": 4,
+    "images": [
+      "/images/GrandBallroom.jpg",
+      "/images/GrandBallroom.jpg",
+      "/images/GrandBallroom.jpg"
+    ],
+    "amenities": [
+      "Built-in audio-visual system",
+      "Stage with lighting",
+      "Dance floor",
+      "Private entrance",
+      "Bridal suite",
+      "Coat check room",
+      "Full-service bar",
+      "Customizable lighting",
+      "Complimentary Wi-Fi"
+    ],
+    "packages": [
+      {
+        "name": "Wedding Package",
+        "description": "Complete wedding package including catering, decoration, and photography",
+        "price": 10000,
+        "includes": ["5-course meal", "Wedding cake", "Decoration", "Photography", "DJ for 6 hours"]
+      },
+      {
+        "name": "Corporate Package",
+        "description": "Professional setup for corporate events and conferences",
+        "price": 8000,
+        "includes": ["AV equipment", "Podium and microphones", "Coffee breaks", "Lunch buffet", "Stationery"]
+      }
+    ],
+    "pastEvents": [
+      {
+        "name": "Johnson-Smith Wedding",
+        "date": "2023-06-15",
+        "guests": 280,
+        "images": ["/images/wedding.jpg"]
+      },
+      {
+        "name": "Tech Innovation Summit",
+        "date": "2023-09-22",
+        "guests": 350,
+        "images": ["/images/CorporateEvent.jpg"]
+      }
+    ],
+    "featured": true,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "slug": "garden-terrace",
+    "name": "Garden Terrace",
+    "description": "Beautiful outdoor venue surrounded by lush gardens and water features. Ideal for cocktail parties, intimate weddings, and summer events.",
+    "capacity": {
+      "seated": 120,
+      "standing": 200,
+      "theater": 150
+    },
+    "size": "300 sq m",
+    "pricePerHour": 1000,
+    "minimumHours": 3,
+    "images": [
+      "/images/GardenTerrace.jpg",
+      "/images/GardenTerrace.jpg"
+    ],
+    "amenities": [
+      "Outdoor sound system",
+      "String lighting",
+      "Retractable canopy",
+      "Heating lamps",
+      "Garden bar setup",
+      "Private restrooms",
+      "Complimentary Wi-Fi"
+    ],
+    "packages": [
+      {
+        "name": "Garden Wedding Package",
+        "description": "Romantic garden wedding package with catering and decoration",
+        "price": 7000,
+        "includes": ["3-course meal", "Wedding cake", "Floral arches", "Photography", "Live music trio"]
+      },
+      {
+        "name": "Cocktail Reception Package",
+        "description": "Elegant cocktail reception with premium beverages and canapés",
+        "price": 5000,
+        "includes": ["4-hour premium open bar", "Selection of gourmet canapés", "Dessert station", "Bartenders and servers"]
+      }
+    ],
+    "pastEvents": [
+      {
+        "name": "Garcia-Lopez Wedding",
+        "date": "2023-07-08",
+        "guests": 110,
+        "images": ["/images/wedding.jpg"]
+      },
+      {
+        "name": "Summer Networking Mixer",
+        "date": "2023-08-15",
+        "guests": 180,
+        "images": ["/images/Networking.jpg"]
+      }
+    ],
+    "featured": true,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "slug": "executive-boardroom",
+    "name": "Executive Boardroom",
+    "description": "Sophisticated meeting space with state-of-the-art technology, ergonomic seating, and executive amenities for high-level business meetings and presentations.",
+    "capacity": {
+      "seated": 20,
+      "standing": 30,
+      "theater": 25
+    },
+    "size": "80 sq m",
+    "pricePerHour": 500,
+    "minimumHours": 2,
+    "images": [
+      "/images/Boardroom.jpg",
+      "/images/Boardroom.jpg"
+    ],
+    "amenities": [
+      "4K video conferencing system",
+      "Interactive smart board",
+      "High-speed Wi-Fi",
+      "Ergonomic executive chairs",
+      "Built-in charging stations",
+      "Digital whiteboard",
+      "Soundproofing",
+      "Private restroom",
+      "Executive catering options"
+    ],
+    "packages": [
+      {
+        "name": "Half-Day Executive Package",
+        "description": "Professional meeting setup with refreshments",
+        "price": 1500,
+        "includes": ["Room rental (4 hours)", "Continental breakfast", "Coffee and tea service", "AV equipment", "Notepads and pens"]
+      },
+      {
+        "name": "Full-Day Executive Package",
+        "description": "Comprehensive all-day meeting package",
+        "price": 2500,
+        "includes": ["Room rental (8 hours)", "Continental breakfast", "Lunch buffet", "Afternoon snacks", "Beverages throughout day", "AV equipment", "Notepads and pens"]
+      }
+    ],
+    "pastEvents": [
+      {
+        "name": "Global Finance Strategy Meeting",
+        "date": "2023-10-05",
+        "guests": 18,
+        "images": ["/images/GlobalFinanceStrategyMeeting.jpg"]
+      },
+      {
+        "name": "Board of Directors Annual Review",
+        "date": "2023-11-12",
+        "guests": 15,
+        "images": ["/images/BoardMeeting.jpg"]
+      }
+    ],
+    "featured": false,
+    "rating": 4.7
+  }
+]

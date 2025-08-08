@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Chen",
+    "role": "Executive Chef",
+    "bio": "With over 20 years of culinary experience across Europe and Asia, Chef Michael brings his innovative cooking style and passion for fresh, local ingredients to create unforgettable dining experiences.",
+    "image": "/images/ChefMichael.jpg",
+    "specialty": "French-Asian fusion cuisine",
+    "experience": "20+ years",
+    "awards": ["Michelin Star 2019", "Best Chef Award 2021"],
+    "education": "Culinary Institute of America",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Sophia Rodriguez",
+    "role": "Hotel Manager",
+    "bio": "Sophia's exceptional attention to detail and commitment to guest satisfaction has helped establish our hotel as a premier luxury destination. She oversees all hotel operations with precision and warmth.",
+    "image": "/images/HotelManager.jpg",
+    "specialty": "Guest experience optimization",
+    "experience": "15 years",
+    "awards": ["Hospitality Excellence Award 2022"],
+    "education": "Cornell School of Hotel Administration",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "James Wilson",
+    "role": "Sommelier",
+    "bio": "James has curated our award-winning wine collection, featuring rare vintages and boutique wineries from around the world. His wine pairings elevate every dining experience.",
+    "image": "/images/Sommelier.jpg",
+    "specialty": "Old World wines",
+    "experience": "12 years",
+    "awards": ["Master Sommelier Certification"],
+    "education": "Wine & Spirit Education Trust (WSET) Level 4",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Ava Patel",
+    "role": "Events Director",
+    "bio": "Ava brings creativity and flawless execution to every event, from intimate gatherings to grand celebrations. Her attention to detail ensures memorable experiences for all guests.",
+    "image": "/images/EventDirector.jpg",
+    "specialty": "Luxury weddings and corporate events",
+    "experience": "10 years",
+    "awards": ["Event Planner of the Year 2020"],
+    "education": "Hospitality Management, NYU",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "David Thompson",
+    "role": "Head Bartender",
+    "bio": "David's innovative cocktail creations and deep knowledge of spirits have made our bar a destination for cocktail enthusiasts. He specializes in craft cocktails using house-made ingredients and local spirits.",
+    "image": "/images/Bartender.jpg",
+    "specialty": "Craft cocktails and mixology",
+    "experience": "8 years",
+    "awards": ["Mixology Masters Championship 2022"],
+    "education": "International Bartender Association Certification",
+    "featured": false
+  }
+]

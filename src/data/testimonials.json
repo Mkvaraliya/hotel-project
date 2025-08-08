@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "role": "Business Traveler",
+    "comment": "The attentive service and luxurious amenities made my business trip feel like a vacation. The staff went above and beyond to accommodate my late check-in and early meetings.",
+    "rating": 5,
+    "image": "/images/BusinessTrip.jpg",
+    "date": "2023-09-15"
+  },
+  {
+    "id": 2,
+    "name": "Mark and Jennifer Davis",
+    "role": "Newlyweds",
+    "comment": "We held our dream wedding in the Garden Terrace, and everything was absolutely perfect. The events team coordinated every detail flawlessly, and our guests are still raving about the food and service.",
+    "rating": 5,
+    "image": "/images/HappyCouple.jpg",
+    "date": "2023-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Robert Thompson",
+    "role": "Food Critic",
+    "comment": "The restaurant offers an impressive culinary journey. Chef Michael's fusion dishes are innovative yet respectful of traditional techniques. The wine pairings were impeccable.",
+    "rating": 4.5,
+    "image": "/images/culinary.jpg",
+    "date": "2023-10-05"
+  },
+  {
+    "id": 4,
+    "name": "The Garcia Family",
+    "role": "Vacation Guests",
+    "comment": "A perfect family getaway! The kids loved the pool, while we appreciated the attentive service and family-friendly dining options. The concierge helped plan wonderful daily activities.",
+    "rating": 5,
+    "image": "/images/FamilyFun.jpg",
+    "date": "2023-08-10"
+  },
+  {
+    "id": 5,
+    "name": "Emily Wong",
+    "role": "Corporate Event Planner",
+    "comment": "We hosted our annual company conference here and were impressed by the professional event staff and flexible meeting spaces. The catering was outstanding and accommodated all dietary requirements.",
+    "rating": 4.8,
+    "image": "/images/CorporateEvent.jpg",
+    "date": "2023-11-15"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Salmon",
+    "category": "Main Course",
+    "price": 18.99,
+    "description": "Fresh Atlantic salmon fillet grilled to perfection, seasoned with herbs and served with a side of roasted vegetables and lemon butter sauce.",
+    "image": "/images/GrilledSalmon.jpg",
+    "isVegetarian": false,
+    "spiceLevel": 1,
+    "popularity": 90,
+    "tags": ["seafood", "healthy", "grilled"],
+    "ingredients": ["Salmon fillet", "Lemon", "Olive oil", "Fresh herbs", "Garlic", "Butter", "Seasonal vegetables"],
+    "recipeSteps": [
+      "Marinate salmon in olive oil, lemon, and herbs for 30 minutes",
+      "Preheat grill to medium-high heat",
+      "Grill salmon for 4-5 minutes per side",
+      "Prepare lemon butter sauce",
+      "Serve with roasted seasonal vegetables"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 25,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 320
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mushroom Risotto",
+    "category": "Main Course",
+    "price": 14.99,
+    "description": "Creamy Arborio rice slowly cooked with wild mushrooms, white wine, and Parmesan cheese, finished with truffle oil and fresh herbs.",
+    "image": "/images/Risotto.jpg",
+    "isVegetarian": true,
+    "spiceLevel": 0,
+    "popularity": 85,
+    "tags": ["vegetarian", "italian", "creamy"],
+    "ingredients": ["Arborio rice", "Wild mushrooms", "White wine", "Vegetable broth", "Parmesan cheese", "Truffle oil", "Fresh herbs"],
+    "recipeSteps": [
+      "Sauté mushrooms and onions until soft",
+      "Add Arborio rice and toast lightly",
+      "Gradually add warm broth while stirring",
+      "Fold in Parmesan cheese",
+      "Finish with truffle oil and fresh herbs"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 580
+    }
+  },
+  {
+    "id": 3,
+    "name": "Spicy Thai Curry",
+    "category": "Main Course",
+    "price": 16.99,
+    "description": "Authentic Thai red curry with your choice of protein, bamboo shoots, bell peppers, and Thai basil, served with jasmine rice.",
+    "image": "/images/ThaiCurry.jpg",
+    "isVegetarian": false,
+    "spiceLevel": 4,
+    "popularity": 88,
+    "tags": ["spicy", "thai", "curry"],
+    "ingredients": ["Chicken", "Red curry paste", "Coconut milk", "Bamboo shoots", "Bell peppers", "Thai basil", "Jasmine rice"],
+    "recipeSteps": [
+      "Sauté curry paste in coconut milk",
+      "Add protein and cook until done",
+      "Add vegetables and simmer until tender",
+      "Stir in Thai basil",
+      "Serve hot with jasmine rice"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 820
+    }
+  },
+  {
+    "id": 4,
+    "name": "Classic Caesar Salad",
+    "category": "Starter",
+    "price": 8.99,
+    "description": "Crisp romaine lettuce tossed in our housemade Caesar dressing, topped with garlic croutons, shaved Parmesan, and optional grilled chicken or shrimp.",
+    "image": "/images/CaesarSalad.jpg",
+    "isVegetarian": true,
+    "spiceLevel": 0,
+    "popularity": 78,
+    "tags": ["salad", "classic", "light"],
+    "ingredients": ["Romaine lettuce", "Caesar dressing", "Parmesan cheese", "Garlic croutons", "Lemon"],
+    "recipeSteps": [
+      "Wash and dry romaine lettuce leaves",
+      "Toss with housemade Caesar dressing",
+      "Add garlic croutons and shaved Parmesan",
+      "Finish with fresh ground pepper and lemon wedge"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 15,
+      "fat": 22,
+      "sodium": 480
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "price": 9.99,
+    "description": "Warm chocolate cake with a molten center, served with vanilla bean ice cream and fresh berries.",
+    "image": "/images/ChocolateLavaCake.jpg",
+    "isVegetarian": true,
+    "spiceLevel": 0,
+    "popularity": 95,
+    "tags": ["dessert", "chocolate", "sweet"],
+    "ingredients": ["Dark chocolate", "Butter", "Flour", "Eggs", "Sugar", "Vanilla ice cream", "Fresh berries"],
+    "recipeSteps": [
+      "Melt chocolate and butter together",
+      "Mix in other ingredients",
+      "Bake until edges are set but center is soft",
+      "Serve immediately with ice cream and berries"
+    ],
+    "nutrition": {
+      "calories": 580,
+      "protein": 6,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 220
+    }
+  }
+]

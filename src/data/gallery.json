@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Hotel Exterior",
+    "description": "The elegant facade of our hotel illuminated at dusk",
+    "image": "/images/HotelExterior.jpg",
+    "category": "Property",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Lobby Entrance",
+    "description": "Our grand lobby featuring marble floors and crystal chandeliers",
+    "image": "/images/Lobby.jpg",
+    "category": "Property",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Signature Dish - Seafood Platter",
+    "description": "Our chef's special seafood platter with fresh catch of the day",
+    "image": "/images/Seafood.jpg",
+    "category": "Food",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Infinity Pool",
+    "description": "Our rooftop infinity pool with panoramic city views",
+    "image": "/images/InfinityPool.jpg",
+    "category": "Amenities",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Presidential Suite",
+    "description": "Luxurious presidential suite with separate living area and private terrace",
+    "image": "/images/luxurysuite.jpg",
+    "category": "Rooms",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Garden Wedding Setup",
+    "description": "Romantic garden wedding ceremony arrangement",
+    "image": "/images/GardenWedding.jpg",
+    "category": "Events",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "Fine Dining Restaurant",
+    "description": "Our signature restaurant with elegant table settings and ambient lighting",
+    "image": "/images/elegance.jpg",
+    "category": "Dining",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "title": "Spa Treatment Room",
+    "description": "Tranquil spa treatment room designed for ultimate relaxation",
+    "image": "/images/Spa.jpg",
+    "category": "Wellness",
+    "featured": false
+  }
+]
